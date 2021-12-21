@@ -19,8 +19,6 @@
 
 - 📫 How to reach me **vikumdabare@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1_h-x_FW-ReLsUi2ypV7AUkYD1dFJUmUh9Sb3kj1UdMg/edit?usp=sharing](https://docs.google.com/document/d/1_h-x_FW-ReLsUi2ypV7AUkYD1dFJUmUh9Sb3kj1UdMg/edit?usp=sharing)
-
 - ⚡ Fun fact **Love learning new stuff**
 
 ### Blogs posts
