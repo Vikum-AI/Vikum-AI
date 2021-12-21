@@ -11,8 +11,6 @@
 
 - 🤝 I’m looking for help with **Anything I know :)**
 
-- 👨‍💻 All of my projects are available at [www.vikumdabare.com](www.vikumdabare.com)
-
 - 📝 I regularly write articles on [https://medium.com/@vikumdabare](https://medium.com/@vikumdabare)
 
 - 💬 Ask me about **react, javascript, nodejs, python**
